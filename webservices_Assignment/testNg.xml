@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name= "CucumberWithTestNg">
+
+<test name= "chrometest"  >
+<parameter name= "browser"  value="chrome"/> 
+<classes>
+<class name="student_runner.StudentQ2_runner" >
+
+ </class>
+</classes>
+</test>
+
+
+
+</suite>
+
+
